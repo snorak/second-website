@@ -1,0 +1,30 @@
+[
+    {
+        "idKat" : 1,
+        "naziv" : "A"
+    },
+    {
+        "idKat" : 2,
+        "naziv" : "B"
+    },
+    {
+        "idKat" : 3,
+        "naziv" : "C"
+    },
+    {
+        "idKat" : 4,
+        "naziv" : "F"
+    },
+    {
+        "idKat" : 5,
+        "naziv" : "G"
+    },
+    {
+        "idKat" : 6,
+        "naziv" : "H"
+    },
+    {
+        "idKat" : 7,
+        "naziv" : "SUV"
+    }
+]

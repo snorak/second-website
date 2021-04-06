@@ -1,0 +1,600 @@
+[
+    {
+        "id" : 1,
+        "slika" : "slike/mercedes-smart.png",
+        "marka" : "Mercedes",
+        "naziv" : "Mercedes Smart",
+        "klasa" : {
+            "idKlasa" : 1,
+            "naziv" : "A"
+        },
+        "cena" : {
+            "cena1" : 29.10,
+            "cena2" : 20.00,
+            "cena3" : 18.00,
+            "cena4" : 15.50,
+            "cena5" : 14.00,
+            "cena6" : 12.50,
+            "depozit" : 200
+    },
+        "gorivo" : "Benzin",
+        "menjac" : "Automatik",
+        "brojPutnika" : 2,
+        "akcija" : false
+    },
+    {
+        "id" : 2,
+        "slika" : "slike/fiat-puntoClassic.png",
+        "marka" : "Fiat",
+        "naziv" : "Fiat Punto Classic",
+        "klasa" : {
+            "idKlasa" : 2,
+            "naziv" : "B"
+        },
+        "cena" : {
+            "cena1" : 29.10,
+            "cena2" : 20.00,
+            "cena3" : 18.00,
+            "cena4" : 15.00,
+            "cena5" : 12.50,
+            "cena6" : 11.00,
+            "depozit" : 200
+        },  
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 4,
+        "akcija" : false
+    },
+    {
+        "id" : 3,
+        "slika" : "slike/fiat-puntoDynamic.png",
+        "marka" : "Fiat",
+        "naziv" : "Fiat Punto Dynamic",
+        "klasa" : {
+            "idKlasa" : 2,
+            "naziv" : "B"
+        },
+        "cena" : {
+            "cena1" : 30.00,
+            "cena2" : 20.00,
+            "cena3" : 18.00,
+            "cena4" : 15.50,
+            "cena5" : 14.00,
+            "cena6" : 12.50,
+            "depozit" : 200
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 4,
+        "slika" : "slike/skoda-fabia.png",
+        "marka" : "Škoda",
+        "naziv" : "Škoda Fabia",
+        "klasa" : {
+            "idKlasa" : 2,
+            "naziv" : "B"
+        },
+        "cena" : {
+            "cena1" : 33.00,
+            "cena2" : 28.00,
+            "cena3" : 25.00,
+            "cena4" : 22.00,
+            "cena5" : 18.00,
+            "cena6" : 15.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 5,
+        "slika" : "slike/renault-clio.png",
+        "marka" : "Renault",
+        "naziv" : "Renault Clio",
+        "klasa" : {
+            "idKlasa" : 2,
+            "naziv" : "B"
+        },
+        "cena" : {
+            "cena1" : 33.00,
+            "cena2" : 28.00,
+            "cena3" : 25.00,
+            "cena4" : 22.00,
+            "cena5" : 18.00,
+            "cena6" : 15.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 6,
+        "slika" : "slike/chevrolet-aveo.png",
+        "marka" : "Chevrolet",
+        "naziv" : "Chevrolet Aveo",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 37.00,
+            "cena2" : 31.00,
+            "cena3" : 28.00,
+            "cena4" : 25.00,
+            "cena5" : 20.00,
+            "cena6" : 18.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 7,
+        "slika" : "slike/fiat-500L.png",
+        "marka" : "Fiat",
+        "naziv" : "Fiat 500L",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 33.00,
+            "cena2" : 28.00,
+            "cena3" : 25.00,
+            "cena4" : 22.00,
+            "cena5" : 18.00,
+            "cena6" : 15.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 8,
+        "slika" : "slike/opel-astraH.png",
+        "marka" : "Opel",
+        "naziv" : "Opel Astra H",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 35.00,
+            "cena2" : 29.00,
+            "cena3" : 25.00,
+            "cena4" : 21.00,
+            "cena5" : 18.00,
+            "cena6" : 16.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 9,
+        "slika" : "slike/ford-focus.png",
+        "marka" : "Ford",
+        "naziv" : "Ford Focus",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 50.00,
+            "cena2" : 44.00,
+            "cena3" : 38.00,
+            "cena4" : 34.00,
+            "cena5" : 32.00,
+            "cena6" : 30.00,
+            "depozit" : 500
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 10,
+        "slika" : "slike/mazda-3.png",
+        "marka" : "Mazda",
+        "naziv" : "Mazda 3",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 50.00,
+            "cena2" : 32.00,
+            "cena3" : 30.00,
+            "cena4" : 26.00,
+            "cena5" : 22.00,
+            "cena6" : 20.00,
+            "depozit" : 600
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : true
+    },
+    {
+        "id" : 11,
+        "slika" : "slike/renault-fluence.png",
+        "marka" : "Renault",
+        "naziv" : "Renault Fluence",
+        "klasa" : {
+            "idKlasa" : 3,
+            "naziv" : "C"
+        },
+        "cena" : {
+            "cena1" : 56.00,
+            "cena2" : 35.00,
+            "cena3" : 33.00,
+            "cena4" : 31.50,
+            "cena5" : 29.00,
+            "cena6" : 23.00,
+            "depozit" : 500
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 12,
+        "slika" : "slike/bmw-1.png",
+        "marka" : "BMW",
+        "naziv" : "BMW 1",
+        "klasa" : {
+            "idKlasa" : 4,
+            "naziv" : "F"
+        },
+        "cena" : {
+            "cena1" : 60.00,
+            "cena2" : 55.00,
+            "cena3" : 50.00,
+            "cena4" : 42.00,
+            "cena5" : 30.00,
+            "cena6" : 25.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 13,
+        "slika" : "slike/opel-insignia.png",
+        "marka" : "Opel",
+        "naziv" : "Opel Insignia",
+        "klasa" : {
+            "idKlasa" : 4,
+            "naziv" : "F"
+        },
+        "cena" : {
+            "cena1" : 62.00,
+            "cena2" : 60.00,
+            "cena3" : 58.00,
+            "cena4" : 50.00,
+            "cena5" : 45.00,
+            "cena6" : 40.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 14,
+        "slika" : "slike/toyota-avensis.png",
+        "marka" : "Toyota",
+        "naziv" : "Toyota Avensis",
+        "klasa" : {
+            "idKlasa" : 4,
+            "naziv" : "F"
+        },
+        "cena" : {
+            "cena1" : 58.00,
+            "cena2" : 42.00,
+            "cena3" : 38.00,
+            "cena4" : 35.00,
+            "cena5" : 32.00,
+            "cena6" : 28.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : true
+    },
+    {
+        "id" : 15,
+        "slika" : "slike/renault-trafic.png",
+        "marka" : "Renault",
+        "naziv" : "Renault Trafic",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 62.00,
+            "cena2" : 53.00,
+            "cena3" : 50.00,
+            "cena4" : 45.00,
+            "cena5" : 42.00,
+            "cena6" : 39.00,
+            "depozit" : 1000
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 9,
+        "akcija" : false
+    },
+    {
+        "id" : 16,
+        "slika" : "slike/volkswagen-transporter.png",
+        "marka" : "Volkswagen",
+        "naziv" : "Volkswagen Transporter",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 70.00,
+            "cena2" : 62.00,
+            "cena3" : 58.00,
+            "cena4" : 52.00,
+            "cena5" : 50.00,
+            "cena6" : 45.00,
+            "depozit" : 1000
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 9,
+        "akcija" : false
+    },
+    {
+        "id" : 17,
+        "slika" : "slike/mazda-6SW.png",
+        "marka" : "Mazda",
+        "naziv" : "Mazda 6 SW",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 65.00,
+            "cena2" : 55.00,
+            "cena3" : 52.00,
+            "cena4" : 40.00,
+            "cena5" : 48.00,
+            "cena6" : 45.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 18,
+        "slika" : "slike/mercedes-E200.png",
+        "marka" : "Mercedes",
+        "naziv" : "Mercedes E 200",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 142.00,
+            "cena2" : 135.00,
+            "cena3" : 130.00,
+            "cena4" : 128.00,
+            "cena5" : 125.00,
+            "cena6" : 115.00,
+            "depozit" : 2000
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 19,
+        "slika" : "slike/peugeot-508SW.png",  
+        "marka" : "Peugeot",
+        "naziv" : "Peugeot 508 SW",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 65.00,
+            "cena2" : 55.00,
+            "cena3" : 52.00,
+            "cena4" : 50.00,
+            "cena5" : 48.00,
+            "cena6" : 45.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 20,
+        "slika" : "slike/volvo-s80.png",
+        "marka" : "Volvo",
+        "naziv" : "Volvo S80",
+        "klasa" : {
+            "idKlasa" : 5,
+            "naziv" : "G"
+        },
+        "cena" : {
+            "cena1" : 80.00,
+            "cena2" : 75.00,
+            "cena3" : 71.00,
+            "cena4" : 65.00,
+            "cena5" : 63.00,
+            "cena6" : 60.00,
+            "depozit" : 1000
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 21,
+        "slika" : "slike/bmw-7.png",
+        "marka" : "BMW",
+        "naziv" : "BMW 7",
+        "klasa" : {
+            "idKlasa" : 6,
+            "naziv" : "H"
+        },
+        "cena" : {
+            "cena1" : 220.00,
+            "cena2" : 200.00,
+            "cena3" : 180.00,
+            "cena4" : 160.00,
+            "cena5" : 150.00,
+            "cena6" : 140.00,
+            "depozit" : 4000
+        },
+        "gorivo" : "Automatik",
+        "menjac" : "Dizel",
+        "brojPutnika" : 4,
+        "akcija" : false
+    },
+    {
+        "id" : 22,
+        "slika" : "slike/dacia-duster.png",
+        "marka" : "Dacia",
+        "naziv" : "Dacia Duster",
+        "klasa" : {
+            "idKlasa" : 7,
+            "naziv" : "SUV"
+        },
+        "cena" : {
+            "cena1" : 60.00,
+            "cena2" : 39.00,
+            "cena3" : 35.00,
+            "cena4" : 33.00,
+            "cena5" : 29.00,
+            "cena6" : 25.00,
+            "depozit" : 500
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 23,
+        "slika" : "slike/dodge-nitro.png",
+        "marka" : "Dodge",
+        "naziv" : "Dodge Nitro",
+        "klasa" : {
+            "idKlasa" : 7,
+            "naziv" : "SUV"
+        },
+        "cena" : {
+            "cena1" : 58.00,
+            "cena2" : 40.00,
+            "cena3" : 38.00,
+            "cena4" : 35.00,
+            "cena5" : 33.00,
+            "cena6" : 30.00,
+            "depozit" : 500
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 24,
+        "slika" : "slike/honda-crv.png",
+        "marka" : "Honda",
+        "naziv" : "Honda CR-V",
+        "klasa" : {
+            "idKlasa" : 7,
+            "naziv" : "SUV"
+        },
+        "cena" : {
+            "cena1" : 60.00,
+            "cena2" : 50.00,
+            "cena3" : 42.00,
+            "cena4" : 37.50,
+            "cena5" : 33.00,
+            "cena6" : 30.00,
+            "depozit" : 800
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Automatik",
+        "brojPutnika" : 5,
+        "akcija" : false
+    },
+    {
+        "id" : 25,
+        "slika" : "slike/jeep-commander.png",
+        "marka" : "Jeep",
+        "naziv" : "Jeep Commander",
+        "klasa" : {
+            "idKlasa" : 7,
+            "naziv" : "SUV"
+        },
+        "cena" : {
+            "cena1" : 80.00,
+            "cena2" : 75.00,
+            "cena3" : 70.00,
+            "cena4" : 65.00,
+            "cena5" : 60.00,
+            "cena6" : 55.00,
+            "depozit" : 1500
+        },
+        "gorivo" : "Dizel",
+        "menjac" : "Automatik",
+        "brojPutnika" : 7,
+        "akcija" : true
+    },
+    {
+        "id" : 26,
+        "slika" : "slike/lada-niva.png",
+        "marka" : "Lada",
+        "naziv" : "Lada Niva",
+        "klasa" : {
+            "idKlasa" : 7,
+            "naziv" : "SUV"
+        },
+        "cena" : {
+            "cena1" : 44.00,
+            "cena2" : 38.00,
+            "cena3" : 30.00,
+            "cena4" : 28.00,
+            "cena5" : 24.00,
+            "cena6" : 20.00,
+            "depozit" : 400
+        },
+        "gorivo" : "Benzin",
+        "menjac" : "Manuelni",
+        "brojPutnika" : 5,
+        "akcija" : false
+    }
+]
